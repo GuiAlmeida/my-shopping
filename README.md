@@ -1,2 +1,10 @@
-# my-shopping
-Simple product list made with JavaScript, HTML and CSS
+<h1 align="center">My Shopping - Product List</h1>
+
+Lista de produtos simples feito com JavaScript, HTML e CSS
+## Preview
+
+## Licença
+
+MIT
+
+---
