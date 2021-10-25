@@ -1,6 +1,9 @@
 <h1 align="center">My Shopping - Product List</h1>
 
-<h3 align="center">Lista de produtos simples feito com JavaScript, HTML e CSS</h3>
+<h4 align="center">Lista de produtos simples feito com JavaScript, HTML e CSS</h4>
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Preview
 
