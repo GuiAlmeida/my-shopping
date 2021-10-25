@@ -2,8 +2,7 @@
 
 <h4 align="center">Lista de produtos simples feito com JavaScript, HTML e CSS</h4>
 &nbsp;
-&nbsp;
-&nbsp;
+
 
 ## Preview
 
